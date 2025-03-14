@@ -1,0 +1,413 @@
+{
+  "topSynergy": [
+    {
+      "pair": "Seven, Haze",
+      "hero1": "Seven",
+      "hero2": "Haze",
+      "actualWinRate": 60.24213718155862,
+      "expectedWinRate": 54.545382267776255,
+      "synergy": 5.696754913782365,
+      "matches": 45181,
+      "weightedScore": 0.2651814254935601
+    },
+    {
+      "pair": "Seven, Mo & Krill",
+      "hero1": "Seven",
+      "hero2": "Mo & Krill",
+      "actualWinRate": 58.51284713210485,
+      "expectedWinRate": 54.04809261990483,
+      "synergy": 4.46475451220002,
+      "matches": 30824,
+      "weightedScore": 0.20041787399678093
+    },
+    {
+      "pair": "Seven, Calico",
+      "hero1": "Seven",
+      "hero2": "Calico",
+      "actualWinRate": 58.358136637364154,
+      "expectedWinRate": 53.89851569139097,
+      "synergy": 4.459620945973186,
+      "matches": 28894,
+      "weightedScore": 0.19893511314182916
+    },
+    {
+      "pair": "Seven, Ivy",
+      "hero1": "Seven",
+      "hero2": "Ivy",
+      "actualWinRate": 57.69376899696048,
+      "expectedWinRate": 53.68287856086151,
+      "synergy": 4.010890436098968,
+      "matches": 15792,
+      "weightedScore": 0.16839471352640045
+    },
+    {
+      "pair": "Seven, Dynamo",
+      "hero1": "Seven",
+      "hero2": "Dynamo",
+      "actualWinRate": 56.907467851665416,
+      "expectedWinRate": 53.06558363273324,
+      "synergy": 3.841884218932179,
+      "matches": 25429,
+      "weightedScore": 0.16924765046958298
+    },
+    {
+      "pair": "Seven, Abrams",
+      "hero1": "Seven",
+      "hero2": "Abrams",
+      "actualWinRate": 57.96491228070175,
+      "expectedWinRate": 54.150774731223386,
+      "synergy": 3.814137549478369,
+      "matches": 29925,
+      "weightedScore": 0.17072209958888945
+    },
+    {
+      "pair": "Seven, Vyper",
+      "hero1": "Seven",
+      "hero2": "Vyper",
+      "actualWinRate": 56.88471774758369,
+      "expectedWinRate": 53.088701155685825,
+      "synergy": 3.796016591897866,
+      "matches": 14278,
+      "weightedScore": 0.15771186299272094
+    },
+    {
+      "pair": "Seven, Warden",
+      "hero1": "Seven",
+      "hero2": "Warden",
+      "actualWinRate": 57.41785096623806,
+      "expectedWinRate": 53.702699514188346,
+      "synergy": 3.715151452049714,
+      "matches": 26598,
+      "weightedScore": 0.16438984119400216
+    },
+    {
+      "pair": "Seven, Lady Geist",
+      "hero1": "Seven",
+      "hero2": "Lady Geist",
+      "actualWinRate": 56.94530838796115,
+      "expectedWinRate": 53.26753716491082,
+      "synergy": 3.67777122305033,
+      "matches": 20899,
+      "weightedScore": 0.15888433265835583
+    },
+    {
+      "pair": "Seven, Lash",
+      "hero1": "Seven",
+      "hero2": "Lash",
+      "actualWinRate": 57.34934449708054,
+      "expectedWinRate": 53.730412861415985,
+      "synergy": 3.6189316356645462,
+      "matches": 45385,
+      "weightedScore": 0.16853047390951598
+    },
+    {
+      "pair": "Seven, Wraith",
+      "hero1": "Seven",
+      "hero2": "Wraith",
+      "actualWinRate": 56.33677393240235,
+      "expectedWinRate": 53.007189687797926,
+      "synergy": 3.329584244604422,
+      "matches": 24705,
+      "weightedScore": 0.1462614725388428
+    },
+    {
+      "pair": "Seven, Grey Talon",
+      "hero1": "Seven",
+      "hero2": "Grey Talon",
+      "actualWinRate": 55.5407543085505,
+      "expectedWinRate": 52.44245642318815,
+      "synergy": 3.0982978853623555,
+      "matches": 24022,
+      "weightedScore": 0.13572432105188229
+    },
+    {
+      "pair": "Seven, Bebop",
+      "hero1": "Seven",
+      "hero2": "Bebop",
+      "actualWinRate": 55.31825561215922,
+      "expectedWinRate": 52.35195721633475,
+      "synergy": 2.9662983958244626,
+      "matches": 35726,
+      "weightedScore": 0.13505510303813822
+    },
+    {
+      "pair": "Seven, Paradox",
+      "hero1": "Seven",
+      "hero2": "Paradox",
+      "actualWinRate": 54.96151812466953,
+      "expectedWinRate": 52.061973760114334,
+      "synergy": 2.8995443645551955,
+      "matches": 17021,
+      "weightedScore": 0.12267928921204195
+    },
+    {
+      "pair": "Seven, Mirage",
+      "hero1": "Seven",
+      "hero2": "Mirage",
+      "actualWinRate": 54.55892156136583,
+      "expectedWinRate": 51.8663317569144,
+      "synergy": 2.6925898044514285,
+      "matches": 13501,
+      "weightedScore": 0.11121381211333765
+    },
+    {
+      "pair": "Seven, Pocket",
+      "hero1": "Seven",
+      "hero2": "Pocket",
+      "actualWinRate": 54.412886816447646,
+      "expectedWinRate": 51.845605605048206,
+      "synergy": 2.5672812113994414,
+      "matches": 11795,
+      "weightedScore": 0.10453193633261162
+    },
+    {
+      "pair": "Abrams, Haze",
+      "hero1": "Abrams",
+      "hero2": "Haze",
+      "actualWinRate": 55.12718717835613,
+      "expectedWinRate": 52.578765356191305,
+      "synergy": 2.548421822164826,
+      "matches": 34005,
+      "weightedScore": 0.11548282506541357
+    },
+    {
+      "pair": "Mo & Krill, Lash",
+      "hero1": "Mo & Krill",
+      "hero2": "Lash",
+      "actualWinRate": 54.16899264146156,
+      "expectedWinRate": 51.661113838512485,
+      "synergy": 2.5078788029490706,
+      "matches": 19705,
+      "weightedScore": 0.10770277219518246
+    },
+    {
+      "pair": "Seven, Yamato",
+      "hero1": "Seven",
+      "hero2": "Yamato",
+      "actualWinRate": 55.23745981682537,
+      "expectedWinRate": 52.76865325400579,
+      "synergy": 2.468806562819581,
+      "matches": 16487,
+      "weightedScore": 0.10411306952081745
+    },
+    {
+      "pair": "Abrams, Lash",
+      "hero1": "Abrams",
+      "hero2": "Lash",
+      "actualWinRate": 54.219030520646314,
+      "expectedWinRate": 51.76379594983105,
+      "synergy": 2.455234570815268,
+      "matches": 19495,
+      "weightedScore": 0.10532767843823161
+    }
+  ],
+  "worstSynergy": [
+    {
+      "pair": "McGinnis, Holliday",
+      "hero1": "McGinnis",
+      "hero2": "Holliday",
+      "actualWinRate": 41.05224831603859,
+      "expectedWinRate": 46.02954696123978,
+      "synergy": -4.97729864520119,
+      "matches": 5493,
+      "weightedScore": -0.18614149250519413
+    },
+    {
+      "pair": "Vindicta, McGinnis",
+      "hero1": "Vindicta",
+      "hero2": "McGinnis",
+      "actualWinRate": 42.57714762301919,
+      "expectedWinRate": 47.42415533496675,
+      "synergy": -4.847007711947565,
+      "matches": 7194,
+      "weightedScore": -0.18694765435843383
+    },
+    {
+      "pair": "McGinnis, Viscous",
+      "hero1": "McGinnis",
+      "hero2": "Viscous",
+      "actualWinRate": 41.560400383929796,
+      "expectedWinRate": 46.24733705594134,
+      "synergy": -4.686936672011538,
+      "matches": 7293,
+      "weightedScore": -0.1810519679288965
+    },
+    {
+      "pair": "Shiv, Viscous",
+      "hero1": "Shiv",
+      "hero2": "Viscous",
+      "actualWinRate": 41.4654594232059,
+      "expectedWinRate": 46.09735050768254,
+      "synergy": -4.631891084476636,
+      "matches": 5964,
+      "weightedScore": -0.1748787910964792
+    },
+    {
+      "pair": "McGinnis, Pocket",
+      "hero1": "McGinnis",
+      "hero2": "Pocket",
+      "actualWinRate": 42.592592592592595,
+      "expectedWinRate": 46.836122428266314,
+      "synergy": -4.243529835673721,
+      "matches": 3834,
+      "weightedScore": -0.15207334643273202
+    },
+    {
+      "pair": "Holliday, Grey Talon",
+      "hero1": "Holliday",
+      "hero2": "Grey Talon",
+      "actualWinRate": 43.148927435081596,
+      "expectedWinRate": 47.36409491840148,
+      "synergy": -4.215167483319881,
+      "matches": 9743,
+      "weightedScore": -0.1681300778074329
+    },
+    {
+      "pair": "Holliday, Shiv",
+      "hero1": "Holliday",
+      "hero2": "Shiv",
+      "actualWinRate": 41.69142404436522,
+      "expectedWinRate": 45.879560412980986,
+      "synergy": -4.188136368615764,
+      "matches": 10098,
+      "weightedScore": -0.16770283766347552
+    },
+    {
+      "pair": "McGinnis, Sinclair",
+      "hero1": "McGinnis",
+      "hero2": "Sinclair",
+      "actualWinRate": 42.32851985559567,
+      "expectedWinRate": 46.44028543852668,
+      "synergy": -4.111765582931009,
+      "matches": 4432,
+      "weightedScore": -0.14993963353848594
+    },
+    {
+      "pair": "McGinnis, Kelvin",
+      "hero1": "McGinnis",
+      "hero2": "Kelvin",
+      "actualWinRate": 42.438804625319115,
+      "expectedWinRate": 46.35484076145914,
+      "synergy": -3.916036136140022,
+      "matches": 6659,
+      "weightedScore": -0.1497260786556273
+    },
+    {
+      "pair": "Holliday, Sinclair",
+      "hero1": "Holliday",
+      "hero2": "Sinclair",
+      "actualWinRate": 42.463982268193575,
+      "expectedWinRate": 46.3714071105219,
+      "synergy": -3.9074248423283278,
+      "matches": 5414,
+      "weightedScore": -0.14588441964941334
+    },
+    {
+      "pair": "Holliday, Viscous",
+      "hero1": "Holliday",
+      "hero2": "Viscous",
+      "actualWinRate": 42.319187089061565,
+      "expectedWinRate": 46.17845872793656,
+      "synergy": -3.859271638874989,
+      "matches": 8365,
+      "weightedScore": -0.1513786157714314
+    },
+    {
+      "pair": "Kelvin, Viscous",
+      "hero1": "Kelvin",
+      "hero2": "Viscous",
+      "actualWinRate": 42.69221888709305,
+      "expectedWinRate": 46.50375252815591,
+      "synergy": -3.8115336410628586,
+      "matches": 4331,
+      "weightedScore": -0.13860978200977972
+    },
+    {
+      "pair": "Infernus, Holliday",
+      "hero1": "Infernus",
+      "hero2": "Holliday",
+      "actualWinRate": 43.348453608247425,
+      "expectedWinRate": 47.00215980101526,
+      "synergy": -3.653706192767836,
+      "matches": 12125,
+      "weightedScore": -0.14920573289309091
+    },
+    {
+      "pair": "Viscous, Sinclair",
+      "hero1": "Viscous",
+      "hero2": "Sinclair",
+      "actualWinRate": 42.9749494320834,
+      "expectedWinRate": 46.589197205223456,
+      "synergy": -3.6142477731400557,
+      "matches": 6427,
+      "weightedScore": -0.13763085518050014
+    },
+    {
+      "pair": "Dynamo, Holliday",
+      "hero1": "Dynamo",
+      "hero2": "Holliday",
+      "actualWinRate": 44.44859464002241,
+      "expectedWinRate": 47.98722212794657,
+      "synergy": -3.538627487924162,
+      "matches": 10709,
+      "weightedScore": -0.14259780292673271
+    },
+    {
+      "pair": "McGinnis, Grey Talon",
+      "hero1": "McGinnis",
+      "hero2": "Grey Talon",
+      "actualWinRate": 43.900543900543894,
+      "expectedWinRate": 47.432973246406256,
+      "synergy": -3.532429345862359,
+      "matches": 7722,
+      "weightedScore": -0.1373313082472376
+    },
+    {
+      "pair": "Infernus, Shiv",
+      "hero1": "Infernus",
+      "hero2": "Shiv",
+      "actualWinRate": 43.40077071290944,
+      "expectedWinRate": 46.921051580761244,
+      "synergy": -3.5202808678517994,
+      "matches": 18684,
+      "weightedScore": -0.1503677362089064
+    },
+    {
+      "pair": "Viscous, Mirage",
+      "hero1": "Viscous",
+      "hero2": "Mirage",
+      "actualWinRate": 43.52975581225325,
+      "expectedWinRate": 47.00576034682928,
+      "synergy": -3.476004534576027,
+      "matches": 6839,
+      "weightedScore": -0.13330451680641536
+    },
+    {
+      "pair": "McGinnis, Paradox",
+      "hero1": "McGinnis",
+      "hero2": "Paradox",
+      "actualWinRate": 43.58336295769641,
+      "expectedWinRate": 47.05249058333245,
+      "synergy": -3.469127625636043,
+      "matches": 5626,
+      "weightedScore": -0.13009921477464984
+    },
+    {
+      "pair": "Pocket, Sinclair",
+      "hero1": "Pocket",
+      "hero2": "Sinclair",
+      "actualWinRate": 43.72909698996656,
+      "expectedWinRate": 47.177982577548434,
+      "synergy": -3.448885587581879,
+      "matches": 3588,
+      "weightedScore": -0.12260279326886135
+    }
+  ],
+  "statistics": {
+    "avg": -0.6840368438765043,
+    "min": -4.97729864520119,
+    "max": 5.696754913782365,
+    "std": 1.9545820723149951,
+    "count": 325
+  }
+}
